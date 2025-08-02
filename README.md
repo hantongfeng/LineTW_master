@@ -1,7 +1,7 @@
 # LineTW
 Official project repository of 'Learning Link-Centric Temporal Representations via Graph Structure Transformation for Continuous-Time Dynamic Link Prediction'
 
-Most of the used original dynamic graph datasets come from ([https://openreview.net/forum?id=1GVpwr2Tfdg](https://zenodo.org/record/7213796#.Y1cO6y8r30o)), 
+Most of the used original dynamic graph datasets come from (https://zenodo.org/record/7213796#.Y1cO6y8r30o), 
 which can be downloaded [here](https://zenodo.org/record/7213796#.Y1cO6y8r30o). 
 Please download them and put them in ```DG_data``` folder. 
 We can run ```preprocess_data/preprocess_data.py``` for pre-processing the datasets.
